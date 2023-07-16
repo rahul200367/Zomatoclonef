@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Zomatoclonef/static/css/main.6cc75589.css",
+    "main.js": "/Zomatoclonef/static/js/main.9e22df1d.js",
+    "static/js/787.9c166d28.chunk.js": "/Zomatoclonef/static/js/787.9c166d28.chunk.js",
+    "static/media/zomatologo.avif": "/Zomatoclonef/static/media/zomatologo.ecef7a1c53f771912f48.avif",
+    "static/media/slick.svg": "/Zomatoclonef/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Zomatoclonef/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Zomatoclonef/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Zomatoclonef/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Zomatoclonef/index.html",
+    "main.6cc75589.css.map": "/Zomatoclonef/static/css/main.6cc75589.css.map",
+    "main.9e22df1d.js.map": "/Zomatoclonef/static/js/main.9e22df1d.js.map",
+    "787.9c166d28.chunk.js.map": "/Zomatoclonef/static/js/787.9c166d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc75589.css",
+    "static/js/main.9e22df1d.js"
+  ]
+}
